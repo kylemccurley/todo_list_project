@@ -5,3 +5,14 @@
   Based on each item's state, the display is generated accordingly.
 </p>
 
+<h3>Technologies/Practice With</h3>
+<ul>
+  <li>Rake</li>
+  <li>Classes</li>
+  <li>Objects</li>
+  <li>Instance Variables</li>
+    <ul>
+      <li>Object State</li>
+    </ul>
+  </li>
+</ul>
