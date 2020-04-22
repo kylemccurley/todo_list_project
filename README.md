@@ -10,6 +10,8 @@
   <li>Rake</li>
   <li>Classes</li>
   <li>Objects</li>
+  <li>Minitest</li>
+    <ul><li>Reporters</li></ul>
   <li>Instance Variables</li>
     <ul>
       <li>As Object State</li>
