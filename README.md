@@ -5,7 +5,7 @@
   Based on each item's state, the display is generated accordingly.
 </p>
 
-<h3>Technologies/Practice With:</h3>
+<h3>Technologies</h3>
 <ul>
   <li>Rake</li>
   <li>Classes</li>
